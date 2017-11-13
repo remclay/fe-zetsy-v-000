@@ -22,10 +22,6 @@ body {
 
 /* Write all remaining styles here */
 
-header {
-	color: rgb(152, 173, 166);
-}
-
 header a {
 	text-decoration: none;
 	color: rgb(152, 173, 166);
