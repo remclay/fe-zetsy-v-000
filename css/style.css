@@ -41,7 +41,9 @@ h1 {
 h1 a:link {
 	text-decoration: none;
 	color: rgb(152, 173, 166);
-	transition: color 2s linear;
+	-webkit-transition: color 0.5s ease;
+	-moz-transition: color 0.5s ease;
+	transition: color 0.5s ease;
 }
 
 h1 a:hover {
