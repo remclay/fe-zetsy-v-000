@@ -28,11 +28,7 @@ header a {
 	font-family: 'Baskerville', serif;
 }
 
-header a:hover {
-	color: rgb(111, 127, 122);
-	outline: 0;
-	cursor: auto;
-}
+
 
 h1 {
 	font-family: 'Baskerville', serif;
