@@ -25,11 +25,11 @@ body {
 header a {
 	text-decoration: none;
 	color: rgb(152, 173, 166);
-	font-family: 'Baskerville', serif;
+	font-family: Baskerville, serif;
 }
 
 h1 {
-	font-family: 'Baskerville', serif;
+	font-family: Baskerville, serif;
 	font-size: 5em;
 	font-weight: normal;
 	border-bottom: 1px solid #ccc;
