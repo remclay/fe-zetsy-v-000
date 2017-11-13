@@ -29,7 +29,6 @@ header a {
 }
 
 h1 {
-	font-family: Baskerville, serif;
 	font-size: 5em;
 	font-weight: normal;
 	border-bottom: 1px solid #ccc;
@@ -39,6 +38,7 @@ h1 {
 }
 
 h1 a:link {
+	font-family: Baskerville, serif;
 	text-decoration: none;
 	color: rgb(152, 173, 166);
 }
